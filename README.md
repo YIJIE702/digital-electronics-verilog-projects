@@ -60,9 +60,10 @@ The system is implemented in **Verilog HDL** and simulates key components of a h
 ---
 
 ## 🚀 How to Run
-1. Open the project in a Verilog simulation tool (e.g., Quartus**).  
-2. Compile and run the project.
-3. Observe:  
+1. Download the zip file.
+2. Extract & open it in a Verilog simulation tool (e.g., Quartus**).  
+3. Compile and run the project.
+4. Observe:  
    - "OFF" or "ON" on seven-segment displays.  
    - LED status changes.  
    - Buzzer activation upon intrusion.  
