@@ -72,10 +72,5 @@ The system is implemented in **Verilog HDL** and simulates key components of a h
 
 ## 📜 License
 
-These projects are for educational purposes under Digital Electronics I and II coursework.
+These projects are for educational purposes under NMJ20404 - Digital Electronics coursework.
 You may modify and use this project for learning, but proper credit to the author is appreciated.
----
-
-## 🙌 Acknowledgements
-- Developed as part of **Digital Electronics course project**.  
-- Thanks to instructors and teammates for valuable feedback and collaboration.  
