@@ -71,8 +71,9 @@ The system is implemented in **Verilog HDL** and simulates key components of a h
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](./LICENSE).  
 
+These projects are for educational purposes under Digital Electronics I and II coursework.
+You may modify and use this project for learning, but proper credit to the author is appreciated.
 ---
 
 ## 🙌 Acknowledgements
